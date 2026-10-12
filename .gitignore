@@ -1,2 +1,4 @@
 obj/
 kind_reflect
+test_bin/
+test_src/
